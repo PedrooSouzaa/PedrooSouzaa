@@ -3,7 +3,7 @@ Hi! Welcome to my Github profile! 👋
 <div>
   <a href="https://github.com/PedroSouza2001">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedrooSouzaa&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>    
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooSouzaa&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooSouzaa&layout=compact"/>
    
   
 ##  
