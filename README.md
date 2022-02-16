@@ -18,7 +18,8 @@ Hi! Welcome to my Github profile! 👋
 ## 
 
 - 🎓 I'm studying Information Systems at Uniasselvi.
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I'm continuously learning about software development using Javascript/Typescript
+
   
 ##
 <a href="https://www.linkedin.com/in/pedro-miguel-de-souza-a0185719a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
