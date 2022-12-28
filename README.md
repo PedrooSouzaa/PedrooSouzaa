@@ -15,7 +15,8 @@ Hi! Welcome to my Github profile! 👋
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+<img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   
 </div>
@@ -23,7 +24,8 @@ Hi! Welcome to my Github profile! 👋
 ## 
 
 - 🎓 I'm studying Information Systems at Uniasselvi.
-- 🌱 I'm continuously learning about software development using Javascript/Typescript
+- 🔒 Currently working with cybersecurity.
+- 🌱 I'm continuously learning about software development using Javascript/Typescript and Python.
 
   
 ##
