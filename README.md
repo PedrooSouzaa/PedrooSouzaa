@@ -24,7 +24,7 @@ Hi! Welcome to my Github profile! 👋
 ## 
 
 - 🎓 I'm studying Information Systems at Uniasselvi.
-- 🔒 Currently working with cybersecurity.
+- 🔒 Currently working with cybersecurity and devsecops
 - 🌱 I'm continuously learning about software development using Javascript/Typescript and Python.
 
   
